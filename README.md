@@ -2,7 +2,14 @@
 ## Iniciando projetoGit
  - Criar um repositório local
  - Criar um repositório remoto
- - git config --global user.name "Birimba13"
- - git config --global user.email "jpjerosch@gmail.com"
+ - git config --global user.name "Birimba13"(coloque seu nome do github)
+ - git config --global user.email "jpjerosch@gmail.com"(coloque seu email do github)
  - git init
  - git remote add origin (link do repositório)
+## Fazer projeto
+ - Faz umas coisas aí
+## Stage e Commit
+ - git add * | git add .(pode fazer os dois)
+ - git commit -m "mensagem do commit"
+## Push
+ - git push origin main
