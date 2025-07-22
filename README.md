@@ -1,5 +1,5 @@
 # AULA GIT
-##Iniciando projetoGit
+## Iniciando projetoGit
  - Criar um repositório local
  - Criar um repositório remoto
  - git config --global user.name "Birimba13"
