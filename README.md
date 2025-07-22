@@ -18,3 +18,4 @@
  - git fetch
  - git status
  - git pull
+ - git log | git log --oneline(para ver todos os commits)
